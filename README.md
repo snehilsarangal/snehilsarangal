@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @snehilsarangal
+- 👀 I’m interested in Web Development and Software Development ...
+- 🌱 I’m currently learning HTML, CSS, JS, COding with C++...
+- 📫 How to reach me https://github.com/snehilsarangal...
+
+<!---
+snehilsarangal/snehilsarangal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
